@@ -37,6 +37,7 @@ body{
 .main .section .info{
     color: #fff;
     margin-top: 2.5rem;
+    max-width: 100%;
 }
 
 
@@ -73,10 +74,15 @@ body{
     background-color: var(--soft);
 }
 
-.footer .social-networks{
+.footer{
+    height: 13vh;
     display: flex;
     justify-content: flex-end;
-    margin-bottom: 20px;
+    align-items: center;
+}
+
+.footer .social-networks{
+    display: flex;
 }
 
 .footer .social-networks .icons{
