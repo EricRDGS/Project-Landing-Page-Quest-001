@@ -31,11 +31,11 @@ Users should be able to:
 
 # Desktop
 
-![](./screenshot-desktop.png)
+<img src="src/images/Screenshot-desktop.png" alt="Desktop">
 
 # Mobile
 
-![](./screenshot-mobile.png)
+<img src="src/images/Screenshot-mobile.png" alt="Mobile">
 
 
 ### Links
