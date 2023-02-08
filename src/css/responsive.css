@@ -9,6 +9,11 @@
 }
 
 @media(max-width:890px){
+    body{
+        background: url(../images/bg-mobile.svg) var(--bg) center no-repeat;
+        background-size: cover;
+    }
+
     .main .section{
         gap: .2rem;
     }
@@ -23,17 +28,8 @@
 }
 
 @media(max-width: 500px){
-    body{
-        background-color: var(--bg);
-        background-image: url(../images/bg-mobile.svg);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-
     .header{
-        height: 15vh;
-        align-items: end;
+        height: 20vh;
     }
 
     .header .logo{
@@ -48,6 +44,7 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
+        margin-top: 4rem;
     }
 
     .main .section img{
@@ -58,7 +55,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin-top: 0;
+        margin-top: 1rem;
     }
 
     .main .section .info .main-title{
@@ -70,13 +67,17 @@
         text-align: center;
     }
 
+    .main .section .info .btn{
+        margin-top: 1.5rem;
+    }
+
     .footer{
         height: 15vh;
         justify-content: center;
+        margin-top: 6rem;
     }
 
     .footer .social-networks .icons{
-        margin: 0;
-        margin-left: 1.2rem;
+        margin: 1rem 0 1rem 1.5rem;
     }
 }
