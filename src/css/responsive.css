@@ -7,11 +7,15 @@
     }
 
     .main .section .info .main-title{
-        font-size: 2rem;
+        font-size: 2.5rem;
+    }
+
+    .main .section .info .text{
+        font-size: 1.4rem;
     }
 }
 
-@media(max-width:890px){
+@media(max-width:840px){
     body{
         background: url(../images/bg-mobile.svg) var(--bg) center no-repeat;
         background-size: cover;
@@ -22,11 +26,11 @@
     }
 
     .main .section .info .main-title{
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     .main .section .info .text{
-        font-size: .7rem;
+        font-size: 1rem;
     }
 }
 
@@ -41,6 +45,7 @@
     }
 
     .main .section img{
+        width: auto;
         margin: 0 2rem;
     }
 
