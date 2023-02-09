@@ -1,15 +1,12 @@
 body{
-    background-color: var(--bg);
-    background-image: url(../images/bg-desktop.svg);
-    background-position: center;
-    background-repeat: no-repeat;
+    background: url(../images/bg-desktop.svg) var(--bg) center no-repeat;
     background-size: cover;
 }
 
 .header{
     display: flex;
     align-items: center;
-    height: 20vh;
+    height: 25vh;
 }
 
 .header .logo{
@@ -18,8 +15,6 @@ body{
 
 .main{
     display: flex;
-    justify-content: center;
-    height: 67vh;
 }
 
 .main .section{
@@ -74,10 +69,10 @@ body{
 }
 
 .footer{
-    height: 13vh;
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    margin: .5rem 0 2rem;
 }
 
 .footer .social-networks{
