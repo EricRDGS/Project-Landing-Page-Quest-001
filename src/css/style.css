@@ -1,4 +1,4 @@
-body{
+html{
     background: url(../images/bg-desktop.svg) var(--bg) center no-repeat;
     background-size: cover;
 }
@@ -13,18 +13,14 @@ body{
     margin: 1rem 2rem 1.8rem;
 }
 
-.main{
-    display: flex;
-}
-
 .main .section{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.5fr 1fr;
     gap: .9rem;
 }
 
 .main .section img{
-    max-width: 100%;
+    width: 100%;
     margin-left: 2rem;
 }
 
