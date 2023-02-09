@@ -28,7 +28,6 @@ html{
 .main .section .info{
     color: #fff;
     margin-top: 2.5rem;
-    max-width: 100%;
 }
 
 
@@ -36,7 +35,7 @@ html{
     font-family: "Poppins", sans-serif;
     font-size: 3.4rem;
     font-weight: 600;
-    margin: 2rem 2.5rem 0;
+    margin: 3rem 2.5rem 0;
 }
 
 .main .section .info .text{
@@ -51,11 +50,11 @@ html{
     font-weight: 400;
     color: var(--bg);
     width: 190px;
-    height: 44px;
+    height: 50px;
     border-radius: 500px;
     border: none;
     box-shadow: 1px 2px 4px #000;
-    margin: 1rem 2.5rem;
+    margin: 3rem 2.5rem;
 }
 
 .main .section .info .btn:hover{
