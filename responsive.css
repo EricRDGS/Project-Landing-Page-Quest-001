@@ -1,0 +1,77 @@
+@media(max-width: 1040px){
+    body{
+        height: 100vh;
+    }
+    .main .section{
+        gap: .6rem;
+    }
+
+    .main .section .info .main-title{
+        font-size: 2rem;
+    }
+}
+
+@media(max-width:890px){
+    body{
+        background: url(../images/bg-mobile.svg) var(--bg) center no-repeat;
+        background-size: cover;
+    }
+
+    .main .section{
+        gap: .2rem;
+    }
+
+    .main .section .info .main-title{
+        font-size: 1rem;
+    }
+
+    .main .section .info .text{
+        font-size: .7rem;
+    }
+}
+
+@media(max-width: 660px){
+    .header .logo{
+        margin-left: 2rem;
+    }
+
+    .main .section{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main .section img{
+        width: auto;
+        margin: 0 2rem;
+    }
+
+    .main .section .info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1rem;
+    }
+
+    .main .section .info .main-title{
+        font-size: 26px;
+        margin: 0;
+    }
+
+    .main .section .info .text{
+        text-align: center;
+    }
+
+    .main .section .info .btn{
+        margin-top: 1.5rem;
+    }
+
+    .footer{
+        height: 15vh;
+        justify-content: center;
+        margin-top: 2rem;
+    }
+
+    .footer .social-networks .icons{
+        margin: 1rem 0 1rem 1.5rem;
+    }
+}
