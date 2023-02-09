@@ -1,4 +1,7 @@
 @media(max-width: 1040px){
+    body{
+        height: 100vh;
+    }
     .main .section{
         gap: .6rem;
     }
@@ -27,24 +30,14 @@
     }
 }
 
-@media(max-width: 500px){
-    .header{
-        height: 20vh;
-    }
-
+@media(max-width: 660px){
     .header .logo{
         margin-left: 2rem;
-    }
-
-    .main{
-        height: 70vh;
     }
 
     .main .section{
         display: flex;
         flex-direction: column;
-        justify-content: center;
-        margin-top: 4rem;
     }
 
     .main .section img{
@@ -74,7 +67,7 @@
     .footer{
         height: 15vh;
         justify-content: center;
-        margin-top: 6rem;
+        margin-top: 2rem;
     }
 
     .footer .social-networks .icons{
