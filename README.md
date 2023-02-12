@@ -2,7 +2,7 @@
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+## 📋 Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -16,11 +16,11 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [Acknowledgments](#acknowledgments)
 
 
-## Overview
+## 🗺️ Overview
 
 The challenge is a simple landing page with a logo, background image, image in the content, texts and social media icons. But for me it's a bit complex, because there are a lot of things that I'm evolving, like the flex display and the grid.
 
-### The challenge
+### 📝The challenge
 
 Users should be able to:
 
@@ -29,22 +29,22 @@ Users should be able to:
 
 ### Screenshot
 
-# Desktop
+# 🖥️ Desktop
 
 <img src="src/images/Screenshot-desktop.png" alt="Desktop">
 
-# Mobile
+# 📱 Mobile
 
 <img src="src/images/Screenshot-mobile.png" alt="Mobile">
 
 
-### Links
+### 🔗 Links
 
 - Live Site URL: [Access Website](https://ericrdgs.github.io/Project-Landing-Page-Quest-001/)
 
-## My process
+## 📊 My process
 
-### Built with
+### 🏗️ Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -52,22 +52,22 @@ Users should be able to:
 - CSS Grid
 
 
-### What I learned
+### 📖What I learned
 
 In this challenge you can understand more about the flex display, the display grid and also the responsiveness.
 
-### Continued development
+### 🐱‍💻 Continued development
 
 I want to continue learning about flex display and responsiveness
 
 
-## Author
+## 🤓 Author
 
 - Website - [Github](https://www.your-site.com)
 - Frontend Mentor - [@EricRDGS](https://www.frontendmentor.io/profile/yourusername)
 
 
-## Acknowledgments
+## 👍 Acknowledgments
 
 My thanks go to the devquest course, without the professors I wouldn't be solving this challenge or learning about programming.
 
