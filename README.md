@@ -63,7 +63,7 @@ I want to continue learning about flex display and responsiveness
 
 ## 🤓 Author
 
-- Website - [Github](https://www.your-site.com)
+- Website - [Github](https://github.com/EricRDGS)
 - Frontend Mentor - [@EricRDGS](https://www.frontendmentor.io/profile/yourusername)
 
 
