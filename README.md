@@ -69,5 +69,5 @@ I want to continue learning about flex display and responsiveness
 
 ## 👍 Acknowledgments
 
-My thanks go to the devquest course, without the professors I wouldn't be solving this challenge or learning about programming
+My thanks go to the devquest course, without the professors I wouldn't be solving this challenge or learning about programming.
 
