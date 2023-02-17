@@ -52,7 +52,7 @@ Users should be able to:
 - CSS Grid
 
 
-### 📖What I learned
+### 📖 What I learned
 
 In this challenge you can understand more about the flex display, the display grid and also the responsiveness.
 
