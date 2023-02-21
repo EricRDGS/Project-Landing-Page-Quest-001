@@ -37,7 +37,9 @@ Users should be able to:
 
 # 📱 Mobile
 
-<img src="src/images/Screenshot-mobile.png" alt="Mobile">
+<a href="https://ericrdgs.github.io/Project-Landing-Page-Quest-001/">
+  <img src="src/images/Screenshot-mobile.png" alt="Mobile">
+</a>
 
 
 ### 🔗 Links
