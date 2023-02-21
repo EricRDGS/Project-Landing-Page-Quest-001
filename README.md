@@ -31,7 +31,9 @@ Users should be able to:
 
 # 🖥️ Desktop
 
-<img src="src/images/Screenshot-desktop.png" alt="Desktop">
+<a href="https://ericrdgs.github.io/Project-Landing-Page-Quest-001/">
+  <img src="src/images/Screenshot-desktop.png" alt="Desktop">
+</a>
 
 # 📱 Mobile
 
