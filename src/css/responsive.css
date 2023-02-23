@@ -12,15 +12,15 @@
     body{
         height: 100vh;
     }
-    .main .section{
+    .main{
         gap: .6rem;
     }
 
-    .main .section .info .main-title{
+    .main .info .main-title{
         font-size: 2.5rem;
     }
 
-    .main .section .info .text{
+    .main .info .text{
         font-size: 1.4rem;
     }
 }
@@ -31,51 +31,52 @@
         background-size: cover;
     }
 
-    .main .section{
+    .main{
         gap: .2rem;
     }
 
-    .main .section .info .main-title{
+    .main .info .main-title{
         font-size: 2rem;
     }
 
-    .main .section .info .text{
+    .main .info .text{
         font-size: 1rem;
     }
 }
 
-@media(max-width: 660px){
+@media(max-width: 766px){
     .header .logo{
         margin-left: 2rem;
     }
 
-    .main .section{
+    .main{
         display: flex;
         flex-direction: column;
     }
 
-    .main .section img{
-        width: auto;
+    .main img{
         margin: 0 2rem;
     }
 
-    .main .section .info{
+    .main .info{
         display: flex;
         flex-direction: column;
         align-items: center;
         margin-top: 1rem;
     }
 
-    .main .section .info .main-title{
+    .main .info .main-title{
+        text-align: center;
         font-size: 26px;
-        margin: 0;
+        margin: 0 10px;
     }
 
-    .main .section .info .text{
+    .main .info .text{
+        font-size: 16px;
         text-align: center;
     }
 
-    .main .section .info .btn{
+    .main .info .btn{
         margin-top: 1.5rem;
     }
 
