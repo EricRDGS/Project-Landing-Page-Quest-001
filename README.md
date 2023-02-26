@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## 🗺️ Overview
 
-The challenge is a simple landing page with a logo, background image, image in the content, texts and social media icons. But for me it's a bit complex, because there are a lot of things that I'm evolving, like the flex display and the grid.
+The challenge is a simple landing page with a logo, background image, image in the content, texts and social media icons. But for me it's a bit complex, because there are a lot of things that I'm evolving, like the flex display and the grid..
 
 ### 📝 The challenge
 
